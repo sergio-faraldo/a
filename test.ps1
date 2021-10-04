@@ -1,0 +1,1 @@
+﻿[System.Reflection.Assembly]::LoadWithPartialName('System.Windows.Forms'); [System.Windows.Forms.MessageBox]::Show('El Script se está ejecutando','Hola')
